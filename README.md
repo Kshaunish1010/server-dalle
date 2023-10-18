@@ -4,7 +4,7 @@ Welcome to the DALL-E Clone repository! This project replicates the impressive A
 
 ## GitHub Repository
 
-- **GitHub Repository URL**: [DALL-E Clone GitHub Repository](https://github.com/yourusername/DALL-E-Clone)
+- **GitHub Repository URL**: [DALL-E Clone GitHub Repository](https://github.com/Kshaunish1010/server-dalle)
 
 ## Features
 
